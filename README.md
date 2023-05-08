@@ -76,9 +76,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *your roll no 
- * your name 
- * department and year 
+ *your roll no 212222040004
+ * your name Akash B
+ * department and year cse 1st year
  
  
  
@@ -87,7 +87,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  
  
  
- 
+ ![Screenshot (21)](https://user-images.githubusercontent.com/119291768/236835963-4eb7b7e0-a8e9-465c-a627-98a6d023a9ac.png)
+
  
  
  
@@ -130,3 +131,6 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 ### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+
+![Screenshot (22)](https://user-images.githubusercontent.com/119291768/236836006-d78c795b-8807-4fb8-b02c-71b924a52969.png)
+
